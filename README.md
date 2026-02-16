@@ -1,64 +1,60 @@
-# 📘 Feb 2026 Data Science Internship  
-## Logic Building Task – 1
+# Innomatics Agentic AI Internship — Feb 2026
 
-👤 **Name:** Kataram Navya Sree  
-📅 **Deadline:** 13/02/2026  
-💻 **Platform:** Google Colab / Jupyter Notebook  
-
----
-
-## 📌 Project Overview
-
-This repository contains solutions for **Logic Building Task – 1** as part of the February 2026 Data Science Internship.
-
-The objective of this assignment is to strengthen core programming fundamentals and logical thinking using Python.
+**Name:** Kataram Navya Sree
+**Role:** Agentic AI Intern
+**Organization:** Innomatics Research Labs
 
 ---
 
-## 📝 Tasks Completed
+## About
 
-### 1️⃣ User Login Check
-- Validates username and password
-- Prints success or invalid message
-- Demonstrates conditional statements
+This repository contains my **assignments, logic building tasks, and projects** completed during the Innomatics **Agentic AI (Generative AI) Internship**.
 
-### 2️⃣ Pass / Fail Analyzer
-- Analyzes student marks
-- Counts total pass and fail students
-- Uses loops and conditional logic
-
-### 3️⃣ Simple Data Cleaner
-- Removes extra spaces
-- Converts names to lowercase
-- Demonstrates string processing
-
-### 4️⃣ Message Length Analyzer
-- Calculates length of messages
-- Flags messages longer than 10 characters
-
-### 5️⃣ Error Message Detector
-- Detects and counts "ERROR" entries in logs
-- Demonstrates list traversal and counting logic
+The internship focuses on developing strong programming logic and building real-world AI applications using Python, Large Language Models (LLMs), APIs, and cloud deployment.
 
 ---
 
-## 🛠 Technologies Used
+## Tasks Included
 
-- Python 3
-- Google Colab
-- GitHub
+### Task 1 — Python Logic Building
+
+* Conditions & loops
+* String and list handling
+* Input validation
+* Basic problem solving
+
+### Task 2 — Advanced Logical Problems
+
+* Structured coding approach
+* Edge case handling
+* Clean and readable implementation
 
 ---
 
-## 🎯 Learning Outcomes
+## Technologies Used
 
-✔ Improved logical thinking  
-✔ Strengthened Python fundamentals  
-✔ Better understanding of loops & conditions  
-✔ Clean and structured coding practices  
+* Python
+* FastAPI
+* AWS
+* LangChain
+* LangGraph
+* Google Colab
+* GitHub
 
 ---
 
-✨ *This project is submitted as part of the Feb 2026 Data Science Internship Program.*
+## What I Am Learning
 
+* Building AI chatbots & assistants
+* Creating AI agents and workflows
+* Prompt engineering
+* Retrieval Augmented Generation (RAG)
+* Deploying AI applications
 
+---
+
+## Purpose
+
+This repository tracks my learning, progress, and project implementations throughout the internship.
+
+---
