@@ -1,7 +1,9 @@
 # 🚀 Innomatics Agentic AI Internship — Feb 2026
 
 **Name:** Kataram Navya Sree
+
 **Role:** Agentic AI Intern
+
 **Organization:** Innomatics Research Labs
 
 ---
