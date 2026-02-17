@@ -48,7 +48,7 @@ Focus areas include:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * FastAPI
@@ -60,7 +60,7 @@ Focus areas include:
 
 ---
 
-## 📚 What I Am Learning
+##  What I Am Learning
 
 * Building AI chatbots & assistants
 * Creating AI agents and workflows
@@ -70,11 +70,11 @@ Focus areas include:
 
 ---
 
-## 🎯 Purpose of This Repository
+##  Purpose of This Repository
 
 This repository documents my learning journey, practice implementations, and progress throughout the internship.
 It serves as a record of my development in programming, data handling, and applied AI engineering.
 
 ---
 
-⭐ *This project is part of my practical training in AI & Software Development at Innomatics Research Labs.*
+ *This project is part of my practical training in AI & Software Development at Innomatics Research Labs.*
