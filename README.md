@@ -1,4 +1,4 @@
-# 🚀 Innomatics Agentic AI Internship — Feb 2026
+#  Innomatics Agentic AI Internship — Feb 2026
 
 **Name:** Kataram Navya Sree
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 About the Internship
+##  About the Internship
 
 This repository contains assignments, logic-building exercises, and projects completed during the **Innomatics Agentic AI (Generative AI) Internship**.
 
@@ -24,22 +24,22 @@ Focus areas include:
 
 ---
 
-## 🧠 Tasks Completed
+##  Tasks Completed
 
-### 🔹 Task 1 — Python Logic Building
+###  Task 1 — Python Logic Building
 
 * Conditional statements & loops
 * String and list manipulation
 * Input validation
 * Basic algorithmic thinking
 
-### 🔹 Task 2 — Advanced Logical Problems
+###  Task 2 — Advanced Logical Problems
 
 * Structured problem solving
 * Edge-case handling
 * Clean and readable implementations
 
-### 🔹 Task 3 — Data Processing & Analysis
+###  Task 3 — Data Processing & Analysis
 
 * Data cleaning and transformation
 * Frequency analysis using dictionaries
