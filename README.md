@@ -46,6 +46,15 @@ Focus areas include:
 * Business rule detection
 * Validation and filtering techniques
 
+###  Task 4 — Functions & Loop Based Applications
+
+* Function design and modular programming
+* Retry mechanisms using while loop
+* Iterating lists and dictionaries using for loop
+* Percentage and average calculations
+* Input validation and rule-based decision making
+* Implementing real-world mini systems (recharge, cab fare, attendance, password validation)
+
 ---
 
 ##  Technologies Used
