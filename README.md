@@ -55,6 +55,33 @@ Focus areas include:
 * Input validation and rule-based decision making
 * Implementing real-world mini systems (recharge, cab fare, attendance, password validation)
 
+###  Task 5 — File Handling & Data Storage
+
+* Reading and writing files using Python
+* Working with CSV and text files
+* Data storage and retrieval techniques
+* Handling file exceptions and errors
+* Processing structured data from files
+* Implementing small file-based applications
+
+###  Task 6 — Object Oriented Programming (OOP)
+
+* Understanding classes and objects
+* Implementing constructors and methods
+* Encapsulation and data hiding
+* Using inheritance and polymorphism
+* Designing modular and reusable programs
+* Building simple real-world systems using OOP concepts
+
+###  Task 7 — Mini Project Implementation
+
+* Integrating Python concepts into a complete application
+* Implementing real-world problem solving
+* Combining functions, loops, and data structures
+* Handling user inputs and validations
+* Designing modular and scalable program structure
+* Testing and debugging the final application
+
 ---
 
 ##  Technologies Used
